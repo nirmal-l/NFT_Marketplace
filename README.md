@@ -98,6 +98,6 @@ The application will now be running at `http://localhost:5173/`.
 
 ## 4. Deployed Contracts (Sepolia Testnet)
 The smart contracts have been successfully deployed and verified on the Sepolia testnet at the following addresses:
-* **NFTX:** `0x743cddb3dbaa33ce8ef6bd471ee3e0a7be220028`
-* **NFTXNFT:** `0xC944E7648F1c90e39Ed6f3125315835ca8aB8611`
+* **NFTX:** `0x6Dedf79B60539dbbD87aE316E79c9Cf5FA5459db`
+* **NFTXNFT:** `0x130339f1ab100fbEE80fe5df75BD507f1f893880`
 
