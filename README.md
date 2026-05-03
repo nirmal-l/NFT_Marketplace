@@ -101,8 +101,3 @@ The smart contracts have been successfully deployed and verified on the Sepolia 
 * **NFTX:** `0x743cddb3dbaa33ce8ef6bd471ee3e0a7be220028`
 * **NFTXNFT:** `0xC944E7648F1c90e39Ed6f3125315835ca8aB8611`
 
----
-
-## 5. Security & Safety Note
-* **Never upload your `.env` file or commit real private keys to GitHub.**
-* The test keys provided by Anvil are public and inherently compromised. Never use them on a mainnet.
