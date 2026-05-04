@@ -1,6 +1,6 @@
 # NFT Marketplace: Decentralized Escrow E-Commerce
 
-🎥 **[Watch the full project explanation and demo video here!](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+ **[Watch the full project explanation and demo video here!](https://drive.google.com/file/d/1Wx-YvuPCoWhxwWLNeLMsuhAMBBhlrDSM/view?usp=drive_link)**
 
 ## 1. Project Overview
 The **NFT Marketplace** is a fully decentralized, Web3-native e-commerce platform built on the Ethereum blockchain. Traditional NFT marketplaces perform immediate "atomic swaps" of digital assets for cryptocurrency, which fail when dealing with physical goods, real-world services, or delayed-delivery assets. 
