@@ -292,7 +292,6 @@ return (
                 >
                   <span className="relative z-10 flex items-center justify-center space-x-2">
                     <span>Buy Now</span>
-                    <span className="animate-pulse">🚀</span>
                   </span>
                   
                   {/* Multiple shine effects */}
@@ -319,7 +318,6 @@ return (
                   >
                     <span className="relative z-10 flex items-center justify-center space-x-1.5">
                       <span>Remove</span>
-                      <span className="text-xs">🗑️</span>
                     </span>
                     
                     {/* Subtle shine effect */}
